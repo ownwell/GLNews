@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:flipview="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/layout"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/biz_news_local_weather_bg_big"
@@ -12,6 +12,7 @@
         android:id="@+id/include1"
         layout="@layout/common_title_bar" />
 
+    <!--android:id="@+id/layout"-->
     <RelativeLayout
         android:id="@+id/layout"
         android:layout_width="match_parent"
