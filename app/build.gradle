@@ -60,7 +60,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.tiger.quicknews"
+        applicationId "me.cyning.news"
         minSdkVersion 9
         targetSdkVersion 21
         versionCode 1
