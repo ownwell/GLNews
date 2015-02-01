@@ -71,7 +71,7 @@ android {
     lintOptions {
         abortOnError false
     }
-    sourceSets { main { res.srcDirs = ['src/main/res', 'src/main/res/values-v11'] } }
+
 
     packagingOptions {
         exclude 'META-INF/DEPENDENCIES.txt'

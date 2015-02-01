@@ -348,7 +348,7 @@ public class ProgressPieView extends View {
     }
 
     /**
-     * Sets the text typeface. - i.e. fonts/Roboto/Roboto-Regular.ttf
+     * Sets the text typeface. - i.e. fonts/font.Roboto/font.Roboto-Regular.ttf
      * 
      * @param typeface that the text is displayed in
      */
